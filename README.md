@@ -4,9 +4,13 @@ This data aggregation, and the corresponding visualizations were used to support
 Contributors: 
 
 Caleb Watson
+
 Debra Cook
+
 Tony DiCarlantonio
+
 Aavanth Ezhilan
+
 Safa Khalid
 
 14 October 2021
