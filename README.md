@@ -11,6 +11,8 @@ Professors Angela Berardinelli and Justin Grandinetti
 DTSC 1301
 14 October 2021
 
+
+
  A Data Aggregation: Do CMPD Budget Allocations Put Us in a Position to Meet the Annual ission Statement?
 Introduction
 	The Charlotte-Mecklenburg Police Department (CMPD) mission statement can be found in the City of Charlotte, Adopted FY 2021 Budget, and reads: “The Charlotte-Mecklenburg Police Department builds problem-solving partnerships with residents to prevent the next crime and enhance the quality of life throughout the community, while treating people with fairness and respect” (124). This prompted our research into a full overview of the department budget to determine if it was allocated towards areas trying to achieve the mission statement. When making such determinations, it is important to understand the conceptual constraints and how spending categories might fit such criteria. Any amount of spending in categories outside of the mission statement should be evaluated cautiously, as can be seen with the details provided throughout this report. Additionally, any evidence to support enhanced efforts of implementing the mission statement will be made aware to suggest alternative spending behaviors. Since the following analysis will examine public funds and provide independent recommendations, there will be a close consideration of any potential benefits and harms that may result from this report. 
